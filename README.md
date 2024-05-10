@@ -41,17 +41,18 @@ Recognizing the significance of mental well-being amidst today's hectic lifestyl
 - If necessary, provide feedback on the tracking plan documentation.
 - Suggest any improvements or optimizations to enhance data collection and analysis.
 
-### 1. Events & Event Properties
+### Results:
+#### 1. Events & Event Properties
 <img width="1183" alt="Знімок екрана 2024-05-10 о 15 50 21" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/44a0d5b5-a90a-484e-820d-239dc18c3072">
 <img width="1183" alt="Знімок екрана 2024-05-10 о 15 50 21" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/758887b1-a72b-4063-acf7-4f2496a2d15a">
 
-### 2. User Tracking Properties
+#### 2. User Tracking Properties
 <img width="761" alt="Знімок екрана 2024-05-10 о 16 37 20" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/4aee8878-b449-46df-81bd-383c44ef85b4">
 
-### 3. Key metrics, their descriptions, and formulas
+#### 3. Key metrics, their descriptions, and formulas
 <img width="1015" alt="Знімок екрана 2024-05-10 о 16 36 05" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/20f00331-d816-43d0-b33b-b09c35b9eed3">
 
-
+### Summary
 🌿 BetterMe offers a self-help meditation app for those who struggle to meditate! You can dive into guided meditations and techniques to find calm and balance in just a few minutes a day. The simple and practical approach makes relaxation accessible to everyone.
 
 ✅ Set goals to reduce anxiety, improve sleep, boost self-love, and more. With personalized daily plans and mindfulness meditations, achieve your mental wellness objectives effortlessly.
