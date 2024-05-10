@@ -6,7 +6,7 @@
 #### For the development of the tracking plan [BetterMe](https://betterme.world/product/meditation) application was used.
 #### You could find at [GooglePlay](https://play.google.com/store/apps/details?id=com.gen.bettermeditation&hl=en_US&pli=1) and [AppStore](https://apps.apple.com/us/app/betterme-mental-health/id1363010081).
 
-### BetterMe MentalHealth App Overview
+## BetterMe MentalHealth App Overview
 Recognizing the significance of mental well-being amidst today's hectic lifestyles, BetterMe introduces a robust MentalHealth app. Crafted to empower individuals, the app is a holistic solution for enhancing mental health and overall wellness.
 #### Features:
 - Personalized Self-Help Plan: Tailored daily program for a balanced life.
