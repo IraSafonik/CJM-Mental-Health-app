@@ -43,13 +43,13 @@ Recognizing the significance of mental well-being amidst today's hectic lifestyl
 
 ### 1. Events & Event Properties
 <img width="1183" alt="Знімок екрана 2024-05-10 о 15 50 21" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/44a0d5b5-a90a-484e-820d-239dc18c3072">
-<img width="1183" alt="Знімок екрана 2024-05-10 о 15 49 58" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/7f274bb2-d294-438c-bf66-e52dc4c7422d">
+<img width="1183" alt="Знімок екрана 2024-05-10 о 15 50 21" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/758887b1-a72b-4063-acf7-4f2496a2d15a">
 
 ### 2. User Tracking Properties
-<img width="825" alt="Знімок екрана 2024-05-10 о 15 50 35" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/48be7389-3a49-41b2-983c-88143939ac55">
+<img width="761" alt="Знімок екрана 2024-05-10 о 16 37 20" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/4aee8878-b449-46df-81bd-383c44ef85b4">
 
 ### 3. Key metrics, their descriptions, and formulas
-<img width="936" alt="Знімок екрана 2024-05-10 о 15 51 09" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/96a2bf62-4f79-4277-aeb1-bbfd1b3891ca">
+<img width="1015" alt="Знімок екрана 2024-05-10 о 16 36 05" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/20f00331-d816-43d0-b33b-b09c35b9eed3">
 
 
 🌿 BetterMe offers a self-help meditation app for those who struggle to meditate! Dive into guided meditations and techniques to find calm and balance in just a few minutes a day. Our simple and practical approach makes relaxation accessible to everyone.
