@@ -1,7 +1,6 @@
 <img width="838" alt="Знімок екрана 2024-05-10 о 16 22 18" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/38ff3346-46f4-4286-ae20-b0e940122f45">
 
-# Customer Journey Map Mental Health app
-## Tracking Plan
+# Tracking Plan Mental Health app
 
 #### For the development of the tracking plan [BetterMe](https://betterme.world/product/meditation) application was used.
 #### You could find at [GooglePlay](https://play.google.com/store/apps/details?id=com.gen.bettermeditation&hl=en_US&pli=1) and [AppStore](https://apps.apple.com/us/app/betterme-mental-health/id1363010081).
