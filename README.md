@@ -52,14 +52,14 @@ Recognizing the significance of mental well-being amidst today's hectic lifestyl
 <img width="1015" alt="Знімок екрана 2024-05-10 о 16 36 05" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/20f00331-d816-43d0-b33b-b09c35b9eed3">
 
 
-🌿 BetterMe offers a self-help meditation app for those who struggle to meditate! Dive into guided meditations and techniques to find calm and balance in just a few minutes a day. Our simple and practical approach makes relaxation accessible to everyone.
+🌿 BetterMe offers a self-help meditation app for those who struggle to meditate! You can dive into guided meditations and techniques to find calm and balance in just a few minutes a day. The simple and practical approach makes relaxation accessible to everyone.
 
 ✅ Set goals to reduce anxiety, improve sleep, boost self-love, and more. With personalized daily plans and mindfulness meditations, achieve your mental wellness objectives effortlessly.
 
-💙 If you're seeking stress relief and a positive mindset, our app is your perfect companion. Experience short, effective meditations tailored to your needs, designed to enhance happiness and focus.
+💙 If you're seeking stress relief and a positive mindset, the app is your perfect companion. Experience short, effective meditations tailored to your needs, designed to enhance happiness and focus.
 
 🙃 Embrace guided or unguided meditations, whatever suits your mood. Let nature sounds transport you to a place of tranquility and peace.
 
 🏕 Join BetterMe on your journey to manage stress, cultivate self-love, and prioritize mental health. In just 3 minutes a day, improve your quality of life and find inner peace.
 
-😌 Choose from a variety of subscription options, all set to Auto-Renew for your convenience. Cancel anytime, and explore our Terms and Privacy Policy for more information.
+<img width="598" alt="Знімок екрана 2024-05-10 о 16 14 40" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/52b165df-d057-4126-95f3-6e260e6b77e4">
