@@ -48,10 +48,10 @@ Recognizing the significance of mental well-being amidst today's hectic lifestyl
 #### 2. User Tracking Properties
 <img width="761" alt="Знімок екрана 2024-05-10 о 16 37 20" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/4aee8878-b449-46df-81bd-383c44ef85b4">
 
-#### 3. Key metrics, their descriptions, and formulas
+#### 3. Key metric
 <img width="1015" alt="Знімок екрана 2024-05-10 о 16 36 05" src="https://github.com/IraSafonik/CJM-Mental-Health-app/assets/32171563/20f00331-d816-43d0-b33b-b09c35b9eed3">
 
-### Summary
+### Summary:
 🌿 BetterMe offers a self-help meditation app for those who struggle to meditate! You can dive into guided meditations and techniques to find calm and balance in just a few minutes a day. The simple and practical approach makes relaxation accessible to everyone.
 
 ✅ Set goals to reduce anxiety, improve sleep, boost self-love, and more. With personalized daily plans and mindfulness meditations, achieve your mental wellness objectives effortlessly.
